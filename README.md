@@ -2,9 +2,9 @@
 
 # About me
 
-🔭 Hello ! I am William Finzy, an aspiring web developer, on a special trip to front-end development ! I used to be a chemical engineer but I somewhat wanted another path for my career and I landed here. 
-  🌱 I am currently learning the basics of React and improving my vanilla JS skills as well. 
-  👯 I am looking forward to collaborating on open source projects, especially those involving biology stuff ! 
+🔭 Hello ! I am William Finzy, an aspiring web developer, on a special trip to front-end development ! I used to be a chemical engineer but I somewhat wanted another path for my career and I landed here.   
+  🌱 I am currently learning the basics of React and improving my vanilla JS skills as well.    
+  👯 I am looking forward to collaborating on open source projects, especially those involving biology stuff !      
   
   # Get in touch
   
