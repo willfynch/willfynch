@@ -23,7 +23,7 @@ I am currently learning :
 
 ## Visit my portfolio
 
-![Website Card](https://github-readme-stats.vercel.app/api/pin/?username=willfynch&repo=willdev)
+ [![Website Card](https://github-readme-stats.vercel.app/api/pin/?username=willfynch&repo=willdev)](https://willdev.me)
 
 
 
