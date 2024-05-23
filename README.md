@@ -20,7 +20,10 @@ Here are some of the skills I am proficient in:
 I am currently learning : 
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) 
-  
+
+## Visit my portfolio
+
+![Website Card](https://github-readme-stats.vercel.app/api/pin/?username=willfynch&repo=willdev)
 
 
 
