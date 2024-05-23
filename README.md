@@ -1,24 +1,24 @@
-### Hi there 👋
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=willfynch&show_icons=true)
 
-# About me
+## Hi there 👋
 
-  ⚠️ In construction 
+I am a Web Developer, currently based in France. I am passionate about coding, of course, but also poetry, hiking, calisthenics and coffee ☕.
+
+## Skills
+
+Here are some of the skills I am proficient in:
+
+- Angular (v12, v14, v17)
+- NextJS with App Router
+- TailwindCSS
+
+I am currently learning : 
+
+- NestJS 
   
-  # Get in touch
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=willfynch&show_icons=true)
+## Get in touch
   
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/[Your LinkedIn Profile]](https://www.linkedin.com/in/williamfinzy/))
 
-<!--
-**willfynch/willfynch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
