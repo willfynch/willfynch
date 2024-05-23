@@ -5,7 +5,7 @@
   ⚠️ In construction 
   
   # Get in touch
-  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=willfynch&show_icons=true)
   
 
 <!--
