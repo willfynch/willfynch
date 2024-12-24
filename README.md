@@ -17,6 +17,8 @@ Here are some of the skills I am proficient in:
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+[![roadmap.sh](https://roadmap.sh/card/tall/676aa93570129741a8f83cff?variant=dark)](https://roadmap.sh)
+
 I am currently learning : 
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) 
